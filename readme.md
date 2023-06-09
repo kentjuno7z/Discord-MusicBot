@@ -5,6 +5,6 @@
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
-    >> git clone https://github.com/kentjuno7z/Discord-Music.git
+    >> git clone https://github.com/kentjuno7z/Discord-MusicBot.git
     >> pip install -r requirements.txt
     ```
